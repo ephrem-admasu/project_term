@@ -10,9 +10,11 @@ This project studies curb demand prediction by converting historical demand sequ
 
 ## Model Architecture
 
-See the full diagram here:
+## Model Architecture
 
-[Download model diagram](proj_method.pdf)
+![Model Diagram](proj_method.png)
+
+[Download PDF version](proj_method.pdf)
 
 ## Main idea
 
