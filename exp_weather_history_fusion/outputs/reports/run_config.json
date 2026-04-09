@@ -1,0 +1,19 @@
+{
+  "CSV_PATH": "../fused_ssl/data/final_df.csv",
+  "SEED": 42,
+  "HISTORY": 24,
+  "TRAIN_RATIO": 0.7,
+  "VAL_RATIO": 0.15,
+  "NUM_CLASSES": 4,
+  "BATCH_SIZE": 128,
+  "SSL_EPOCHS": 30,
+  "LINEAR_PROBE_EPOCHS": 20,
+  "FINETUNE_EPOCHS": 30,
+  "DEVICE": "cuda",
+  "WEATHER_COLS": [
+    "temperature_2m",
+    "precipitation",
+    "wind_speed_10m"
+  ],
+  "DEMAND_SSL_CKPT_USED_FOR_WEATHER_FUSION": "exp_demand_only/outputs/checkpoints/best_ssl_model.pt"
+}

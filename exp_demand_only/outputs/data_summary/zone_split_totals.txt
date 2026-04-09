@@ -1,0 +1,5 @@
+Total sample counts across zones
+train_samples    1887572
+val_samples       403357
+test_samples      403375
+dtype: int64
