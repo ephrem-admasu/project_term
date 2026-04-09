@@ -1,4 +1,4 @@
-# project_term
+# ENSF 617 - Project Term
 
 Self-Supervised Masked Autoencoder for Curb Demand Prediction with Gramian Angual Fields
 
